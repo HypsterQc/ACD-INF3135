@@ -1,0 +1,8 @@
+Nombre de lignes (recettes) du fichier : 6
+Nombre de mots uniques : 11
+Nombre total de mots (avec doublons) : 11
+Lettre la plus fréquente : e
+Nombre de catégories : 11
+Nombre total de recettes : 6
+Catégorie avec le plus de recettes : poulet
+Recette la plus longue : Authentique gibelotte des iles de Sorel 
